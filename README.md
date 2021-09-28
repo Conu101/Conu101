@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Conu101
 - 👀 I’m interested in data science, algo and AI
-- 🌱 I’m just about to start as a student at Hive Helsinki (42 Finland)
+- 🌱 I’m starting my coding studies at Hive Helsinki (42 Finland)
 - 💞️ I’m looking to collaborate on whatever will catch my attention in the coming months!
 - 📫 How to reach me constance.trouve@gmail.com
 
