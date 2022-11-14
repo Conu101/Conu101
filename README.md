@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Constance Trouve.
+- 👋 Hi, I’m Constance Trouvé.
 - 👀 I’m interested in data science, algo and healthcare-related development.
 - 🌱 I have been studying since October 2021 at Hive Helsinki (42 Finland), currently in the graphics branch.
 - 📫 How to reach me: constance.trouve@gmail.com or [ linkedin ](https://www.linkedin.com/in/constancetrouve)
